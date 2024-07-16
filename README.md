@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ATSlient
+- 👋 Hi, I’m @JonnyR
 - 👀 I’m interested in typing code,basketball,badminton,csgo,rainbow six.
 - 🌱 I’m currently learning the knowlege of C language
 - 💞️ I’m looking to collaborate on become a man in the code world
